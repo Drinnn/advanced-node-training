@@ -1,0 +1,8 @@
+{
+  "name": "advanced-node-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Drinnn/advanced-node-training.git",
+  "author": "Drinnn <pedro_lontro@hotmail.com>",
+  "license": "MIT"
+}
